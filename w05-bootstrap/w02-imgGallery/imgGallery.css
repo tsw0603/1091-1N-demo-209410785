@@ -5,7 +5,8 @@
 }
 
 #line3,
-#line4 {
+#line4,
+#line5 {
   display: flex;
   flex-wrap: wrap;
 }
@@ -20,6 +21,10 @@
   margin: 1.5%;
 }
 
+#line5 img {
+  width: 18%;
+  margin: 1%;
+}
 p {
   text-transform: uppercase;
   font-family: Arial, Helvetica, sans-serif;
